@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# 自定义的ignore
+/dataset/train/ct
+/dataset/train/label
+/dataset/val/ct
+/dataset/val/label
+/dataset/mri2slices/mri2d
+/dataset/mri2slices/label
